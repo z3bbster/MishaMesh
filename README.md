@@ -1,6 +1,31 @@
 # MishaMesh
 
-A set of web development centric tools in Less and Javascript for faster and completer development process.
+A set of web development centric tools in Less and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
+
+###Less mixins
+
+Most mixins in this framework are split in multiple files sorted by there functionality. Just simply @import the mixins you will need in your own project by there according folder/file.
+
+All reset mixins
+
+	#reset-normalize()
+	#reset-EricMeyer()
+	#reset-HTML5Doctor()
+	#reset-Mini()
+	#reset-Minimalist1()
+	#reset-Minimalist2()
+	#reset-Minimalist3()
+	#reset-PoorMan()
+	#reset-ShaunInman()
+	#reset-Simpler()
+	#reset-Siolon()
+	#reset-TantekCelik()
+	#reset-Tripoli()
+	#reset-Universal()
+	#reset-Vanilla()
+	#reset-YUI2()
+	#reset-YUI3()
+	#reset()
 
 ## Quick start
 
