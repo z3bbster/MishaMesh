@@ -4,7 +4,7 @@ A set of web development centric tools in Less and Javascript for faster and com
 
 ## Less mixins framework
 
-Most mixins in this framework are split in multiple files sorted by there functionality. Just simply @import the mixins you will need in your own project by there according folder/file.
+Most mixins in this framework are split in multiple files sorted by there functionality. Just simply use the less directive [@import](http://lesscss.org/features/#import-directives-feature)to get the mixins you will need in your own project by there according folder/file.
 
 **All reset mixins** - Add this line ```@import "resets/resets.less";``` on top of your less file and use **one** of the reset mixins below.
 
