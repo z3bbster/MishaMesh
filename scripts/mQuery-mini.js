@@ -12,8 +12,8 @@ var $$ = mQuery = mQlite = function(){
 	}
 
 	var args = arguments, 											// Arguments object 
-		converted_args = Array.prototype.slice.call(arguments), 	// Convert it to a real Array
-		target = args[0].split(','), 								// Array of single/multi dom target(s)
+		converted_args = Array.prototype.slice.call(arguments),		// Convert it to a real Array
+		target = args[0].split(','),								// Array of single/multi dom target(s)
 		d = document; 				
 	
 	if (typeof window.angular == 'object') {
