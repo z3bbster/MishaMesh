@@ -2,6 +2,8 @@
 
 A set of web development centric tools in [Less](http://lesscss.org) and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
 
+[Quick start]('#Quick start') | [Bug tracker]('#Bug tracker') | [Authors]('#Authors') | [Contributing]('#Contributing') | [License]('#License')
+
 ## Less mixins framework
 
 Most mixins in this framework are split in multiple files sorted by there functionality. Just simply use the less directive [@import](http://lesscss.org/features/#import-directives-feature) to get the mixins you will need in your own project by there according folder/file.
