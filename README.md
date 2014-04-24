@@ -1,12 +1,23 @@
 # MishaMesh
 
+<!-- MarkdownTOC depth=2 -->
+
+- Less mixins framework
+- Quick start
+- Bug tracker
+- Authors
+- Contributing
+
+<!-- /MarkdownTOC -->
+
+
 A set of web development centric tools in Less and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
 
-###Less mixins
+## Less mixins framework
 
 Most mixins in this framework are split in multiple files sorted by there functionality. Just simply @import the mixins you will need in your own project by there according folder/file.
 
-All reset mixins
+**All reset mixins** - import ''
 
 	#reset-normalize()
 	#reset-EricMeyer()
