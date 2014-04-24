@@ -6,7 +6,7 @@ A set of web development centric tools in [Less](http://lesscss.org) and Javascr
 
 Most mixins in this framework are split in multiple files sorted by there functionality. Just simply use the less directive [@import](http://lesscss.org/features/#import-directives-feature) to get the mixins you will need in your own project by there according folder/file.
 
-**Mixins naming convention** - All mixins provided here have a naming convention structure like ```#[functionName]-[propertyname]();``` Note that every mixins start with a ```#``` hash character and names are split by ```-``` slash character.
+**Mixins naming convention** - All mixins provided here have a naming convention structure like ```#functionName-propertyname();``` Note that every mixins start with a ```#``` hash character and names are split by ```-``` slash character.
 
 **All comment mixins** - Add this line ```@import "comments/comments.less";``` on top of your .less file.
 
