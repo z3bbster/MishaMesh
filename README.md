@@ -8,9 +8,9 @@ A set of web development centric tools in [Less](http://lesscss.org) and Javascr
 
 All available quick start options: 
 
-+ Clone the repo, `git clone git@github.com:z3bbster/MishaMesh.git`, or [download the latest release](https://github.com/z3bbster/MishaMesh/zipball/master).
-+ [Clone in Desktop](github-windows://openRepo/https://github.com/z3bbster/MishaMesh)
-+ [Download ZIP](https://github.com/z3bbster/MishaMesh/archive/master.zip).
++ Clone the repo: `git clone git@github.com:z3bbster/MishaMesh.git`.
++ Download the latest [release](https://github.com/z3bbster/MishaMesh/zipball/master).
++ Clone in [Desktop](github-windows://openRepo/https://github.com/z3bbster/MishaMesh).
 + Install with [Bower](http://bower.io): `bower install bootstrap`.
 
 ## Less mixins framework
