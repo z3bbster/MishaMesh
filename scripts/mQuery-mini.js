@@ -24,9 +24,8 @@ var $$ = mQuery = mQlite = function(){
 	};
 	if (target.length == 1) return d.querySelector(args[0]); 		// Single DOM reference "div.class"
 	if (target.length > 1) return d.querySelectorAll(args[0]); 		// Multiple DOM reference "div.note, div.alert"
-
-
 }
+
 $$.version = 'v0.1.0';
 
 $$.addClass = function ( classname, element ) {
