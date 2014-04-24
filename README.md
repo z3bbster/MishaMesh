@@ -2,7 +2,7 @@
 
 A set of web development centric tools in [Less](http://lesscss.org) and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
 
-[Quick start]('https://github.com/z3bbster/MishaMesh#quick-start') | [Bug tracker]('https://github.com/z3bbster/MishaMesh#bug-tracker') | [Authors]('https://github.com/z3bbster/MishaMesh#authors') | [Contributing]('https://github.com/z3bbster/MishaMesh#contributing') | [License]('https://github.com/z3bbster/MishaMesh#contributing')
+[Quick start](#quick-start) | [Bug tracker]('https://github.com/z3bbster/MishaMesh#bug-tracker') | [Authors]('https://github.com/z3bbster/MishaMesh#authors') | [Contributing]('https://github.com/z3bbster/MishaMesh#contributing') | [License]('https://github.com/z3bbster/MishaMesh#contributing')
 
 ## Less mixins framework
 
