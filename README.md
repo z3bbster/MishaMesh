@@ -11,7 +11,7 @@ All available quick start options:
 + Clone the repo: `git clone git@github.com:z3bbster/MishaMesh.git`.
 + Download the latest [release](https://github.com/z3bbster/MishaMesh/zipball/master).
 + Clone in [Desktop](github-windows://openRepo/https://github.com/z3bbster/MishaMesh).
-+ Install with [Bower](http://bower.io): `bower install bootstrap`.
++ Install with [Bower](http://bower.io): `bower install MishaMesh`.
 
 ## Less mixins framework
 
@@ -45,13 +45,24 @@ Most mixins in this framework are split in multiple files sorted by there functi
 	#comment-bells-reverse();
 
 **All web-font mixins** - Add this line ```@import "fonts/webfonts.less";``` on top of your .less file.
+	
+	.web-font-serif-definition(1);
 
 **All font-load mixins** - Add this line ```@import "fonts/font-load.less";``` on top of your .less file.
 
+	.load-webfont(myFontName);
+	.load-font-face();
+	.load-font-faces();
+	.load-icon-font();
+
 **All font-stacks mixins** - Add this line ```@import "fonts/font-stacks.less";``` on top of your .less file.
+
+	.create-font-families();
 
 **All font-sizes mixins** - Add this line ```@import "fonts/font-sizes.less";``` on top of your .less file.
 
+	.fontsizes();
+	
 **All reset mixins** - Add this line ```@import "fonts/resets.less";``` on top of your .less file and use **one** of the reset mixins below.
 
 	#reset-normalize();
@@ -88,9 +99,9 @@ https://github.com/z3bbster/MishaMesh/issues
 ## Contributing
 
 1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
 5. Create new Pull Request
 
 ## Copyright and license
