@@ -1,12 +1,12 @@
 # MishaMesh
 
-A set of web development centric tools in Less and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
+A set of web development centric tools in [Less](http://lesscss.org) and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
 
 ## Less mixins framework
 
-Most mixins in this framework are split in multiple files sorted by there functionality. Just simply use the less directive [@import](http://lesscss.org/features/#import-directives-feature)to get the mixins you will need in your own project by there according folder/file.
+Most mixins in this framework are split in multiple files sorted by there functionality. Just simply use the less directive [@import](http://lesscss.org/features/#import-directives-feature) to get the mixins you will need in your own project by there according folder/file.
 
-**All reset mixins** - Add this line ```@import "resets/resets.less";``` on top of your less file and use **one** of the reset mixins below.
+**All reset mixins** - Add this line ```@import "resets/resets.less";``` on top of your .less file and use **one** of the reset mixins below.
 
 	#reset-normalize()
 	#reset-EricMeyer()
