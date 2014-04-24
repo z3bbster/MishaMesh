@@ -2,7 +2,16 @@
 
 A set of web development centric tools in [Less](http://lesscss.org) and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
 
-[Quick start](#quick-start) | [Bug tracker](#bug-tracker) | [Authors](#authors) | [Contributing](#contributing) | [License](#license)
+[Quick start](#quick-start) | [Bug tracker](#bug-tracker) | [Authors](#authors) | [Contributing](#contributing) | [License](#copyright-and-license)
+
+## Quick start
+
+All available quick start options: 
+
++ Clone the repo, `git clone git@github.com:z3bbster/MishaMesh.git`, or [download the latest release](https://github.com/z3bbster/MishaMesh/zipball/master).
++ [Clone in Desktop](github-windows://openRepo/https://github.com/z3bbster/MishaMesh)
++ [Download ZIP](https://github.com/z3bbster/MishaMesh/archive/master.zip).
++ Install with [Bower](http://bower.io): `bower install bootstrap`.
 
 ## Less mixins framework
 
@@ -63,10 +72,6 @@ Most mixins in this framework are split in multiple files sorted by there functi
 	#reset-YUI2();
 	#reset-YUI3();
 	#reset();
-
-## Quick start
-
-Clone the repo, `git clone git@github.com:z3bbster/MishaMesh.git`, or [download the latest release](https://github.com/z3bbster/MishaMesh/zipball/master).
 
 ## Bug tracker
 
