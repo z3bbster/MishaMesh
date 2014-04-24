@@ -2,13 +2,13 @@
 
 A set of web development centric tools in [Less](http://lesscss.org) and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
 
-[Quick start](#quick-start) | [Bug tracker]('https://github.com/z3bbster/MishaMesh#bug-tracker') | [Authors]('https://github.com/z3bbster/MishaMesh#authors') | [Contributing]('https://github.com/z3bbster/MishaMesh#contributing') | [License]('https://github.com/z3bbster/MishaMesh#contributing')
+[Quick start](#quick-start) | [Bug tracker](#bug-tracker) | [Authors](#authors) | [Contributing](#contributing) | [License](#license)
 
 ## Less mixins framework
 
 Most mixins in this framework are split in multiple files sorted by there functionality. Just simply use the less directive [@import](http://lesscss.org/features/#import-directives-feature) to get the mixins you will need in your own project by there according folder/file.
 
-**Mixins naming convention** - All mixins provided here have an easy to remember naming convention structure like ```#functionName-propertyname();``` Note that every mixin start with a ```#``` hash character and names are devided/split by ```-``` slash character.
+**Mixins naming convention** - All mixins provided here have an easy to remember naming convention structure like ```#<functionName>-<propertyname>();``` Note that every mixin start with a ```#``` hash character and names are devided/split by ```-``` slash character.
 
 **All comment mixins** - Add this line ```@import "comments/comments.less";``` on top of your .less file.
 
@@ -87,3 +87,7 @@ https://github.com/z3bbster/MishaMesh/issues
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Copyright and license
+
+Code and documentation copyright 2011-2014 z3bbster. Code released under the [MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
