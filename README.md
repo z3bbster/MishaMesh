@@ -1,4 +1,4 @@
-# MishaMesh
+# [MishaMesh](http://z3bbster.github.io/MishaMesh/)
 
 A set of web development centric tools in [Less](http://lesscss.org) and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
 
@@ -12,6 +12,27 @@ All available quick start options:
 + Download the latest [release](https://github.com/z3bbster/MishaMesh/zipball/master).
 + Clone in [Desktop](github-windows://openRepo/https://github.com/z3bbster/MishaMesh).
 + Install with [Bower](http://bower.io): `bower install MishaMesh`.
+
+## What do i get?
+
+This file/folder structure you will find in this package.
+```
+MishaMesh/
+├── less/
+│   ├── comments/
+│   │	└── comments.less
+│   ├── fonts/
+│   │	├── web-fonts.less
+│   │	├── font-load.less
+│   │	├── font-stacks.less
+│   │	└── font-sizes.less
+│   ├── resets
+│   │	└── resets.less
+├── scripts/
+│   └── mQuery-mini.js
+└── examples/
+
+```
 
 ## Less mixins framework
 
