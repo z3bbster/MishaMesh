@@ -1,1 +1,15 @@
-// MishaMesh bower file
+{
+  "name": "MishaMesh",
+  "version": "0.0.1",
+  "homepage": "https://github.com/z3bbster/MishaMesh",
+  "authors": [
+    "z3bbster <z3bbster@gmail.com>"
+  ],
+  "description": "Handy Less and Javascript package for Web Development",
+  "main": "less/mishamesh.less",
+  "keywords": [
+    "less",
+    "javascript"
+  ],
+  "license": "MIT"
+}
