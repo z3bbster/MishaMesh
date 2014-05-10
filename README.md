@@ -1,4 +1,4 @@
-# [MishaMesh](http://z3bbster.github.io/MishaMesh/)
+# [MishaMesh](http://z3bbster.github.io/MishaMesh/) [![Gittip](http://badgr.co/gittip/z3bbster.png)](https://www.gittip.com/z3bbster/)
 
 A set of web development centric tools in [Less](http://lesscss.org) and Javascript for faster and completer development process. Use it as a boilerplate or companion it with your existing project.
 
